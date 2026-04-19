@@ -1,0 +1,11 @@
+Day 13 - DevOps Study Log
+
+Topics Covered:
+- Docker CLI & Daemon
+
+Key Points:
+- Learned about Docker CLI & Daemon
+- Practiced related concepts
+
+Summary:
+Studied Docker CLI & Daemon.

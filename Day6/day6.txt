@@ -1,0 +1,11 @@
+Day 6 - DevOps Study Log
+
+Topics Covered:
+- Container Runtime
+
+Key Points:
+- Learned about Container Runtime
+- Practiced related concepts
+
+Summary:
+Studied Container Runtime.

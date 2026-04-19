@@ -1,0 +1,11 @@
+Day 7 - DevOps Study Log
+
+Topics Covered:
+- Namespaces & Isolation
+
+Key Points:
+- Learned about Namespaces & Isolation
+- Practiced related concepts
+
+Summary:
+Studied Namespaces & Isolation.

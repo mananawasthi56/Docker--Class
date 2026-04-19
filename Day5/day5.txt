@@ -1,0 +1,11 @@
+Day 5 - DevOps Study Log
+
+Topics Covered:
+- Evolution of Containerization
+
+Key Points:
+- Learned about Evolution of Containerization
+- Practiced related concepts
+
+Summary:
+Studied Evolution of Containerization.

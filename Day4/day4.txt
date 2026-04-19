@@ -1,0 +1,11 @@
+Day 4 - DevOps Study Log
+
+Topics Covered:
+- Introduction to Containers
+
+Key Points:
+- Learned about Introduction to Containers
+- Practiced related concepts
+
+Summary:
+Studied Introduction to Containers.

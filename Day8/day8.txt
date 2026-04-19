@@ -1,0 +1,11 @@
+Day 8 - DevOps Study Log
+
+Topics Covered:
+- cgroups
+
+Key Points:
+- Learned about cgroups
+- Practiced related concepts
+
+Summary:
+Studied cgroups.

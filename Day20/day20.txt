@@ -1,0 +1,11 @@
+Day 20 - DevOps Study Log
+
+Topics Covered:
+- Registries & Security
+
+Key Points:
+- Learned about Registries & Security
+- Practiced related concepts
+
+Summary:
+Studied Registries & Security.

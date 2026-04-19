@@ -1,0 +1,11 @@
+Day 15 - DevOps Study Log
+
+Topics Covered:
+- Dockerfile Basics
+
+Key Points:
+- Learned about Dockerfile Basics
+- Practiced related concepts
+
+Summary:
+Studied Dockerfile Basics.

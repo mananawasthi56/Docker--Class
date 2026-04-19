@@ -1,0 +1,11 @@
+Day 9 - DevOps Study Log
+
+Topics Covered:
+- Container Images & Layers
+
+Key Points:
+- Learned about Container Images & Layers
+- Practiced related concepts
+
+Summary:
+Studied Container Images & Layers.

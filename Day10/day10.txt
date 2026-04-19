@@ -1,0 +1,11 @@
+Day 10 - DevOps Study Log
+
+Topics Covered:
+- Image Registries
+
+Key Points:
+- Learned about Image Registries
+- Practiced related concepts
+
+Summary:
+Studied Image Registries.

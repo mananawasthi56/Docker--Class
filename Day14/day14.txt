@@ -1,0 +1,11 @@
+Day 14 - DevOps Study Log
+
+Topics Covered:
+- Docker Objects
+
+Key Points:
+- Learned about Docker Objects
+- Practiced related concepts
+
+Summary:
+Studied Docker Objects.

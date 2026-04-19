@@ -1,0 +1,11 @@
+Day 17 - DevOps Study Log
+
+Topics Covered:
+- Advanced Dockerfile
+
+Key Points:
+- Learned about Advanced Dockerfile
+- Practiced related concepts
+
+Summary:
+Studied Advanced Dockerfile.
