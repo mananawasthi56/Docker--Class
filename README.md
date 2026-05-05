@@ -1,58 +1,116 @@
-# 🐳 INT332 — Docker & DevOps Notes
-**Course:** INT332 — Docker → DevOps Virtualisation & Configuration Management  
-**Credits:** 3 | **Semester Notes by:** Bhoomi Jain
+# 🚀 INT332 — DevOps & Docker Learning Notes
+
+**Subject:** INT332 — DevOps, Containers & Automation  
+**Semester:** 6th Semester  
+**Prepared By:** Manan Awasthi
 
 ---
 
-## 📚 Course Structure
+## 📖 Course Overview
 
-| Unit | Topic |
-|------|-------|
-| [Unit I](./Unit1/) | Intro to Containers, Docker Basics |
-| [Unit II](./Unit2/) | Image Building & Container Management |
-| Unit III | Microservices with Docker Compose |
-| Unit IV | Maven Build Automation |
-| Unit V | CI with GitHub Actions |
-| Unit VI | CI/CD with Jenkins |
+This repository contains complete notes, practicals, and hands-on learning material for Docker, DevOps, CI/CD, and Build Automation.
 
 ---
 
-## 🗂️ Unit I — Topics Covered
+## 📂 Course Modules
 
-- [1. Basics of DevOps & Why Docker](./Unit1/01_Basics_of_DevOps.md)
-- [2. Virtualization vs Containerization](./Unit1/02_Virtualization_vs_Containerization.md)
-- [3. Container Runtime & Namespaces](./Unit1/03_Container_Runtime_and_Namespaces.md)
-- [4. Control Groups (cgroups)](./Unit1/04_cgroups.md)
-- [5. Container Images & Layers](./Unit1/05_Container_Images_and_Layers.md)
-- [6. Image Registries & Distribution](./Unit1/06_Image_Registries.md)
-- [7. Docker Architecture & Lifecycle](./Unit1/07_Docker_Architecture.md)
-- [8. Basic Docker Commands](./Unit1/08_Basic_Docker_Commands.md)
-
----
-
-## 🗂️ Unit II — Topics Covered
-
-- [1. Dockerfile & Image Building](./Unit2/01_Dockerfile_Basics.md)
-- [2. Docker Networking](./Unit2/02_Docker_Networking.md)
-- [3. Docker Storage — Volumes & Bind Mounts](./Unit2/03_Docker_Storage.md)
-- [4. Environment Variables](./Unit2/04_Environment_Variables.md)
-- [5. Registries — DockerHub, GHCR, Private](./Unit2/05_Registries.md)
+| Module | Content |
+|--------|---------|
+| Module 1 | Introduction to DevOps & Docker |
+| Module 2 | Docker Images & Containers |
+| Module 3 | Docker Compose & Multi-container Apps |
+| Module 4 | Build Tools with Maven |
+| Module 5 | Continuous Integration using GitHub Actions |
+| Module 6 | Jenkins Pipeline & Deployment |
 
 ---
 
-## 📸 Docker Hub Practice Screenshots
+## 📌 Module 1 — DevOps Fundamentals
 
-> Screenshots of hands-on Docker Hub practice are in the [Screenshots](./Screenshots/) folder.
+- Introduction to DevOps
+- SDLC Basics
+- Why DevOps?
+- Introduction to Containers
+- Docker Installation
+- Docker Architecture
+- Docker Commands
+- Docker Lifecycle
 
 ---
 
-## 🛠️ Tools Used
-- Docker Desktop / AWS Platform
+## 📌 Module 2 — Docker Core Concepts
+
+- Dockerfile Basics
+- Building Images
+- Running Containers
+- Managing Containers
+- Docker Volumes
+- Docker Networks
+- Docker Environment Variables
+- Docker Registries
+
+---
+
+## 📌 Module 3 — Docker Compose
+
+- What is Docker Compose?
+- Writing docker-compose.yml
+- Running Multi-container Applications
+- Service Dependencies
+- Container Communication
+
+---
+
+## 📌 Module 4 — Maven
+
+- Introduction to Maven
+- Project Structure
+- pom.xml
+- Maven Lifecycle
+- Build Commands
+- Packaging Applications
+
+---
+
+## 📌 Module 5 — GitHub Actions
+
+- CI Basics
+- Workflow Files
+- YAML Configuration
+- Automated Build
+- Automated Testing
+
+---
+
+## 📌 Module 6 — Jenkins
+
+- Jenkins Installation
+- Jenkins Jobs
+- Pipelines
+- Build Automation
+- Deployment Pipeline
+
+---
+
+## 🛠 Technologies Used
+
+- Docker Desktop
 - Docker Hub
-- Jenkins (Unit VI)
-- Maven (Unit IV)
-- GitHub Actions (Unit V)
+- Maven
+- Jenkins
+- GitHub Actions
+- Git
 
 ---
 
-> 📝 Notes are maintained daily based on class sessions + handwritten notes + slides.
+## 📷 Practical Screenshots
+
+All practical screenshots and outputs are stored in the `Screenshots` folder.
+
+---
+
+## 🎯 Purpose
+
+These notes are created for learning, revision, and practical implementation of DevOps tools during the semester.
+
+---
