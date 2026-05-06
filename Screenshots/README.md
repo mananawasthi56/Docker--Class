@@ -60,8 +60,3 @@ docker stop mynginx
 docker rm mynginx
 ```
 
----
-
-> Add your screenshots here as you complete each lab session.  
-> Filename format: `YYYY-MM-DD_activity_name.png`  
-> Example: `2026-03-28_push_nginx_to_dockerhub.png`
