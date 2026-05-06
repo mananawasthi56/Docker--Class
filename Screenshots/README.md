@@ -13,15 +13,7 @@ This folder contains screenshots of hands-on Docker Hub activities done during c
 
 ---
 
-## Screenshot Log
 
-| # | Screenshot File | What it shows | Date |
-|---|----------------|---------------|------|
-| 1 | _(add your file here)_ | _(describe what you did)_ | _(date)_ |
-| 2 | | | |
-| 3 | | | |
-
----
 
 ## Practice Activities to Screenshot
 
